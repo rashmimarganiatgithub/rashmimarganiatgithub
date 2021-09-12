@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently working as Freelancer 
 
-- 💞️ I’m looking to collaborate more into NLP and Computer Vision field.
+- 💞️ I’m looking to collaborate more on NLP and Computer Vision.
 
 - 📫 How to reach me : rashmi.margani@gmail.com
 
