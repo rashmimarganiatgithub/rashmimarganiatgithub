@@ -1,6 +1,6 @@
 - 👋 Hi there, 
 
-    I’m Rashmi, Machine LearningEngineer,Code Mentor and currently Kaggle Competition Expert top 2%.
+    I’m Rashmi, Machine LearningEngineer,Code Mentor.
 
 
   -👀 Having started coding at an early age and also Having completed my Bachelor’s, I can say my interest in this field has only grown with time. 
@@ -9,12 +9,10 @@
   I strive to utilize my expertise to bridge the gap between technology and business across various domains. My key interest lies solely in sharing my 
   technical expertise with people.I thoroughly enjoy tackling problems pertaining to technology and coming up with novel ideas.
 
-- 🌱 I’m currently working as Freelancer 
+- 🌱 I’m currently working as Senior ML Engg.
 
 - 💞️ I’m looking to collaborate more on NLP and Computer Vision.
 
-- 📫 How to reach me : rashmi.margani@gmail.com
-- Website: www.rashmimargani.com
 
 <!---
 rashmimarganiatgithub/rashmimarganiatgithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
