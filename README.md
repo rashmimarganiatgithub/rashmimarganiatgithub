@@ -1,6 +1,6 @@
 - 👋 Hi there, 
 
-    I’m Rashmi, Machine LearningEngineer,Code Mentor.
+    Currently Working as Senior Machine Learning Engineer,Code Mentor.
 
 
   -👀 Having started coding at an early age and also Having completed my Bachelor’s, I can say my interest in this field has only grown with time. 
